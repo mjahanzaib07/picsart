@@ -1,0 +1,4 @@
+#Sat Sep 02 17:13:58 PKT 2023
+base.0=/Users/muhammadjahanzaib/Downloads/picsart-main/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
